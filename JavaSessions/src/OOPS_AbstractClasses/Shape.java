@@ -1,7 +1,7 @@
 package OOPS_AbstractClasses;
 
 public abstract class Shape {
-	// an abstract class can have both abstract and non abstract methods(min1 abstract method is required)
+	// an abstract class can have both abstract and non abstract methods(min 1 abstract method is required)
 	String color ;
 	
 	public Shape(){

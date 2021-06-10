@@ -15,7 +15,7 @@ public class CallbyreferenceVsCallbyValue {
 		int y = 20;
 		
 		int sum = ob.sumtest(x,y); //Call by value or pass by value
-		System.out.println("sum"+sum);
+		System.out.println("sum: "+sum);
 		
 		ob.p = 50;
 		ob.q = 60;

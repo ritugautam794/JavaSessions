@@ -2,6 +2,9 @@ package Basics;
 
 public class Arrays {
 
+	/**
+	 * @param args
+	 */
 	public static void main(String[] args) {
 		// Arrays : variable to store various values of same data type
 		// Disadvantage :1. they always store same type of data(Same data types).--solved via object arrays

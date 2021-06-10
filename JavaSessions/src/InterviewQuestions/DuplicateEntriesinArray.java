@@ -6,6 +6,8 @@ import java.util.Map;
 import java.util.Map.Entry;
 import java.util.Set;
 
+import org.graalvm.compiler.lir.aarch64.AArch64ArithmeticOp.ExtendedAddSubShiftOp;
+
 public class DuplicateEntriesinArray {
 
 	public static void main(String[] args) {
@@ -35,6 +37,7 @@ public class DuplicateEntriesinArray {
 		}
 
 		System.out.println("**************************");
+		System.out.println(store);
 
 		// 3. HashMap
 

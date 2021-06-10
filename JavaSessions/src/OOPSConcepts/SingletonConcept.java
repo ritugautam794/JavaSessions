@@ -3,8 +3,7 @@ package OOPSConcepts;
 public class SingletonConcept {
 
 	// In OOP, singleton class is the class which can have only one object(one
-	// instance of the class)
-	// at one particular point of time
+	// instance of the class) at one particular point of time
 	// How to design singleton class?
 	// 1. make constructor as private
 	// 2. write public static method(get instance) that has return type a the object
